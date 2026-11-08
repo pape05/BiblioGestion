@@ -1,0 +1,5 @@
+Ubuntu et Linux && Les Linuxiens && 500.0 && janvier-2023 && 100
+Intelligence Artificielle && MIT Press && 600.0 && mars-2023 && 80
+Cybersécurité en Afrique && AfricaTech && 450.0 && fevrier-2023 && 60
+Java 17 Nouveautés && Oracle Blog && 300.0 && decembre-2022 && 90
+Le Cloud Computing && AWS Team && 400.0 && avril-2023 && 70

@@ -1,0 +1,5 @@
+La Revue Informatique && Microsoft && 1000.0 && decembre-2021 && 50
+Science & Vie && Mondadori && 1200.0 && janvier-2023 && 30
+National Geographic && Disney && 1500.0 && mars-2023 && 25
+Le Monde Diplomatique && Le Monde && 800.0 && fevrier-2023 && 20
+Jeune Afrique && JA Media Group && 900.0 && avril-2023 && 40

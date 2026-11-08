@@ -1,0 +1,5 @@
+L'Enfant Noir && Camara Laye && 2500.0 && 180 && 10
+Les Bouts de Bois de Dieu && Sembène Ousmane && 3000.0 && 320 && 8
+Une si Longue Lettre && Mariama Bâ && 2000.0 && 150 && 12
+Le Monde s'effondre && Chinua Achebe && 2800.0 && 230 && 6
+Soundjata && Djibril Niane && 1500.0 && 120 && 15

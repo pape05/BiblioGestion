@@ -1,0 +1,12 @@
+{
+  "permissions": {
+    "allow": [
+      "Read(//c/Users/bmd/Downloads/**)",
+      "Bash(curl *)",
+      "Bash(java --module-path \"C:/Users/bmd/Downloads/openjfx-17-sdk/javafx-sdk-17.0.13/lib\" --add-modules javafx.controls,javafx.graphics -cp out MainBibliotheque)",
+      "Bash(tasklist)",
+      "Bash(findstr -i java)",
+      "Bash(cd *)"
+    ]
+  }
+}
