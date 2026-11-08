@@ -82,4 +82,4 @@ BiblioGestion/
 
 ## Auteur
 
-Projet universitaire - Licence 3
+Projet universitaire - Licence 2
